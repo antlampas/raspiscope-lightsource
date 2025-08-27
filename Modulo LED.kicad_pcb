@@ -88,7 +88,7 @@
 		(layer "F.Cu")
 		(uuid "0644bb83-ca4a-42f3-b9f5-b3d2ce9e67fb")
 		(at 146.5 96)
-		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
+		(descr "Resistor SMD 0201 (0603 Metric),square (rectangular) end terminal,IPC-7351 nominal,(Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf),generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
 			(at 0 -1.05 0)
@@ -281,7 +281,7 @@
 		(layer "F.Cu")
 		(uuid "1a52de39-357e-47f2-8be0-c469c70523af")
 		(at 141 97.275 90)
-		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(descr "Capacitor SMD 0603 (1608 Metric),square (rectangular) end terminal,IPC-7351 nominal,(Body size source: IPC-SM-782 page 76,https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf),generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
 			(at 0 -1.43 90)
@@ -480,7 +480,7 @@
 		(layer "F.Cu")
 		(uuid "1d39df71-53b7-4817-9002-e43b8f51bbc9")
 		(at 148.5 99.5 -90)
-		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
+		(descr "Resistor SMD 0201 (0603 Metric),square (rectangular) end terminal,IPC-7351 nominal,(Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf),generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
 			(at 1.5 0 0)
@@ -674,7 +674,7 @@
 		(layer "F.Cu")
 		(uuid "33bd7dd9-dabe-4780-8b57-6d0b88b3d07b")
 		(at 148.5 97.225 90)
-		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(descr "Capacitor SMD 0603 (1608 Metric),square (rectangular) end terminal,IPC-7351 nominal,(Body size source: IPC-SM-782 page 76,https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf),generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
 			(at 0 -1.43 90)
@@ -873,7 +873,7 @@
 		(layer "F.Cu")
 		(uuid "41d950a9-c3f7-4dd7-9a8a-80a4952a6838")
 		(at 141 99.655 -90)
-		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
+		(descr "Resistor SMD 0201 (0603 Metric),square (rectangular) end terminal,IPC-7351 nominal,(Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf),generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
 			(at 1.5 0 0)
@@ -1067,7 +1067,7 @@
 		(layer "F.Cu")
 		(uuid "58bc17cd-6960-43b2-9db6-64e1078ca835")
 		(at 143.155 96 180)
-		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
+		(descr "Resistor SMD 0201 (0603 Metric),square (rectangular) end terminal,IPC-7351 nominal,(Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf),generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
 			(at 0 -1.05 0)
@@ -1260,7 +1260,7 @@
 		(layer "F.Cu")
 		(uuid "65b88bc9-0acf-44ca-962b-c853b3b79511")
 		(at 144.82 96 180)
-		(descr "LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
+		(descr "LED SMD 0201 (0603 Metric),square (rectangular) end terminal,IPC-7351 nominal,(Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf),generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D1"
 			(at 0 -1.05 0)
@@ -1500,7 +1500,7 @@
 		(layer "F.Cu")
 		(uuid "b3ce3d3e-eca2-4638-9883-2325a84ccdf5")
 		(at 145 100)
-		(descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+		(descr "Diode SMD 0603 (1608 Metric),square (rectangular) end terminal,IPC-7351 nominal,(Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf),generated with kicad-footprint-generator")
 		(tags "diode")
 		(property "Reference" "D2"
 			(at 0 -1.43 0)
@@ -1721,7 +1721,7 @@
 		(layer "F.Cu")
 		(uuid "df455017-ce7f-494a-bcf4-583aae0fdb2a")
 		(at 144.5 106.5 90)
-		(descr "Through hole straight pin header, 1x02, 1.00mm pitch, single row")
+		(descr "Through hole straight pin header,1x02,1.00mm pitch,single row")
 		(tags "Through hole pin header THT 1x02 1.00mm single row")
 		(property "Reference" "J1"
 			(at 0 -1.61 90)
@@ -1758,7 +1758,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
+		(property "Description" "Generic connector,single row,01x02,script generated"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)

@@ -53,7 +53,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x02, script generated"
+			(property "Description" "Generic connector,single row,01x02,script generated"
 				(at 0 0 0)
 				(effects
 					(font
@@ -942,7 +942,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(property "Description" "Power symbol creates a global label with name \"GND\" ,ground"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1805,7 +1805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+		(property "Description" "Power symbol creates a global label with name \"GND\" ,ground"
 			(at 152.4 110.49 0)
 			(effects
 				(font
@@ -1871,7 +1871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
+		(property "Description" "Generic connector,single row,01x02,script generated"
 			(at 143.51 115.57 0)
 			(effects
 				(font
